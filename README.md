@@ -27,7 +27,7 @@ Hiking 🏕️, nature photography 📸, local food exploration 🍴.
 Let’s connect & build amazing things together! 🚀
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reedtang666)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reedtang666&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Back-end**
 
