@@ -1,35 +1,130 @@
 
-# Hello there 👋
+Hi there, nice to meet you! 👋 I'm a passionate full-stack engineer and entrepreneur with over 10 years of hands-on development experience and 4 years of computer science education background. I graduated from Nanjing University of Posts and Telecommunications with a Bachelor of Science degree in Computer Science and Technology.
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+Previously working as an Engineer at Huawei, I now embark on the entrepreneurial journey by founding a startup. Combining the rigorous processes of large enterprises with the agile thinking of entrepreneurs, I focus on building highly available, user-oriented solutions that connect technology with practical needs. 💻
 
-Hi there, nice to meet you! 👋 I’m a passionate full-stack software engineer & entrepreneur with 10+ years of hands-on development experience, 4 years of computer science education, and a Bachelor of Science in Computer Science from Nanjing University of Posts and Telecommunications.
-Previously an engineer at Huawei, I now lead a startup – blending corporate rigor with entrepreneurial agility to build scalable, user-centric solutions that bridge technology and real-world needs. 💻
 🔧 Tech Stack & Core Strengths
-Back-end: Go (core focus & major expertise) 🚀, PHP (years of practical experience), Java (proven track record with multiple projects), Python (my favorite language! – fully proficient, deeply passionate, and centered on AI/ML applications)
-Front-end: Mastery of Flutter (current focus & advanced proficiency) 📱, JavaScript/Vue/React (solid production experience)
-Infra & Emerging Tech: Exploring Rust & Solidity to expand technical breadth (aligning with recent focus on infrastructure)
-AI Advocate: Die-hard GitHub Copilot fan 🤖 – leverage AI to supercharge development efficiency, and deeply invested in the future of AI-driven software innovation (a core pillar of my technical exploration)
+
+- Back-end：
+        
+• Go (Core Focus & Area of Expertise) 🚀, with a solid technical foundation
+        
+• PHP (Years of Practical Experience), implemented in numerous business scenarios
+        
+• Java (Proven Track Record in Multiple Projects), capable of large-scale system development
+        
+• Python (My All-Time Favorite Language!) — Proficient, continuously deepening under passion-driven motivation, with a key focus on AI/ML application directions
+      
+
+- Front-end：
+        
+• Flutter (Current Focus & Advanced Proficiency) 📱, core driver for cross-platform development efficiency
+        
+• JavaScript/Vue/React (Solid Practical Experience in Production Environments)
+      
+
+- Infrastructure & Emerging Technologies：
+        
+• Focusing on the Infra direction, currently exploring Rust and Solidity to expand technical boundaries
+      
+
+- AI Advocate：
+        
+• Die-hard fan of GitHub Copilot 🤖, skilled in leveraging AI to enhance development efficiency
+        
+• Deeply focused on AI-driven software innovation, taking it as the core direction of technical exploration
+      
+
+As a lifelong learner, I firmly believe in the value of integrating technical depth, interdisciplinary wisdom, and forward-looking vision. My current core learning directions include:
+
+- Technical Focus: Deepening Linux technical capabilities (complementary to open-source passion), mastering Python applications in the AI/ML field, and exploring the underlying features of Rust and Solidity
+
+- Intellectual Advancement: Systematically learning mathematical logic and philosophical thinking (to cultivate critical thinking skills)
+
+- Inspiration from Role Model: Die-hard fan of Elon Musk 🚀, in-depth study of his "first principles" thinking model
+
+📚 Recent Reading List
+
 🌱 Learning & Growth Journey
-I’m a lifelong learner obsessed with blending technical depth, interdisciplinary wisdom, and forward-thinking vision:
-Tech Focus: Deepening Linux expertise (synergizing with open-source passion), mastering Python for AI/ML, and exploring Rust & Solidity
-Intellectual Pursuits: Diving into Math, Philosophy (for critical thinking), and soaking up insights from Elon Musk’s vision (a die-hard fan! 🚀)
-Reading List:
-Tech: 《Systems Performance 2nd Ed.》《BPF Performance Tools》(Infra & performance optimization)、《Python for Data Science Handbook》(AI/ML with my favorite language)
-Wisdom: Philosophy classics、《Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future》(inspiration from visionary leadership)
-🚀 Project & Mindset
-Led 10+ large-scale projects (from corporate systems to startup products) – thriving on turning complex problems into elegant solutions. I believe in the power of AI to reshape software development, the value of open-source collaboration, and Elon Musk’s philosophy of “thinking in first principles” to challenge the status quo.
+
+- Technical Books：
+        
+• "Systems Performance 2nd Ed." (Infrastructure Performance Optimization)
+        
+• "BPF Performance Tools" (Practical BPF Technology)
+        
+• "Python for Data Science Handbook" (Core Python Applications in AI/ML)
+      
+
+- Ideological & Inspirational Books：
+        
+• Classic philosophical works
+        
+• "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future" (Biography of Musk, drawing forward-looking insights)
+      
+
+🚀 Projects & Philosophy
+
+Led over 10 large-scale projects (covering enterprise-level systems and startup products), proficient in transforming complex problems into elegant solutions. My core work philosophy:
+
 💻 Open-Source & Values
-A devoted Linux enthusiast and open-source advocate 🐧 – I see Linux as more than an OS; it’s a philosophy of freedom, collaboration, and innovation that guides my work. I actively encourage and support open-source collaborations to build a more inclusive tech ecosystem.
-🤝 Collaboration
-Great software thrives on great teams & culture! I’m eager to collaborate with fellow passionate engineers, AI enthusiasts, and visionaries to build AI-augmented, high-impact products that push boundaries.
+
+A senior Linux enthusiast and open-source advocate 🐧. In my view, Linux is more than an operating system; it's a technical philosophy of "freedom, collaboration, and innovation" that runs through all my work. I actively initiate and encourage open-source collaboration to build an inclusive technology ecosystem.
+
+- AI is a transformative force in software development; proactively embrace technological iteration
+
+- Open-source collaboration is the core value of the technology ecosystem; fully promote shared innovation
+
+- Inspired by Musk's "first principles" to break through inherent thinking limitations
+
+🤝 Collaboration Invitation
+
+Excellent software stems from excellent teams and culture! I sincerely invite passionate engineers, AI enthusiasts, and forward-thinking peers to join hands in building AI-enhanced, high-impact breakthrough products.
+
+When stepping out of the code world, I often immerse myself in these passions:
+
 🎨 Beyond Coding
-When I’m not debugging, building, or learning:
-Hiking through nature 🏕️ & capturing landscapes with my camera 📸
-Exploring local hidden-gem restaurants 🍴
-Geeking out over Python AI advancements, Flutter updates, or Elon Musk’s latest innovations
-Discussing philosophy, systems thinking, or open-source trends
-Let’s harness technology, AI, and bold vision to create something amazing together – feel free to connect or fork a repo! 🚀
+
+- Outdoor hiking 🏕️ and nature photography 📸, capturing the texture of mountains and rivers
+
+- Exploring niche local cuisines 🍴, savoring the warmth of life
+
+- Tracking Python AI advancements, Flutter updates, and Elon Musk's latest innovations
+
+- Discussing philosophical thinking, systems thinking, or open-source trends with like-minded people
+
+Let's take technology as wings, AI as the engine, and vision as the lamp to create extraordinary value together! Feel free to connect or fork the repository anytime! 🚀
+
+Led over 10 large-scale projects (covering enterprise-level systems and startup products), proficient in transforming complex problems into elegant solutions. My core work philosophy:
+
+- AI is a transformative force in software development; proactively embrace technological iteration
+
+- Open-source collaboration is the core value of the technology ecosystem; fully promote shared innovation
+
+- Inspired by Musk's "first principles" to break through inherent thinking limitations
+
+💻 Open-Source & Values
+
+A senior Linux enthusiast and open-source advocate 🐧. In my view, Linux is more than an operating system; it's a technical philosophy of "freedom, collaboration, and innovation" that runs through all my work. I actively initiate and encourage open-source collaboration to build an inclusive technology ecosystem.
+
+🤝 Collaboration Invitation
+
+Excellent software stems from excellent teams and culture! I sincerely invite passionate engineers, AI enthusiasts, and forward-thinking peers to join hands in building AI-enhanced, high-impact breakthrough products.
+
+🎨 Beyond Coding
+
+When stepping out of the code world, I often immerse myself in these passions:
+
+- Outdoor hiking 🏕️ and nature photography 📸, capturing the texture of mountains and rivers
+
+- Exploring niche local cuisines 🍴, savoring the warmth of life
+
+- Tracking AI advancements, Flutter updates, and Elon Musk's latest innovations
+
+- Discussing philosophical thinking, systems thinking, or open-source trends with like-minded people
+
+Let's take technology as wings, AI as the engine, and vision as the lamp to create extraordinary value together! Feel free to connect or fork the repository anytime! 🚀
+
 
 **Back-end**
 
