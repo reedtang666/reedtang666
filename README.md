@@ -151,12 +151,6 @@ Let's take technology as wings, AI as the engine, and vision as the lamp to crea
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/mysql.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/redis.png"></code>
 
-**Cloud Servers**
-
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/gcloud.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/DigitalOcean.png"></code>
-
 **Tools**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/docker.png"></code>
