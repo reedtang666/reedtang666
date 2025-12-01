@@ -1,5 +1,6 @@
 
 Hi there! 👋 Full-stack engineer & entrepreneur with 10+ years of experience, ex-Huawei engineer, grad of Nanjing University of Posts and Telecommunications (CS).
+
 🔧 Tech Stack
 
 - Back-end: Go (core), Python (favorite! AI-focused), PHP/Java (proven experience)
