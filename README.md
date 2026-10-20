@@ -1,37 +1,46 @@
+<div align="center">
+  <img src="./terminal.svg" width="840" alt="reed@github terminal" />
+</div>
 
-Hi there! 👋 Full-stack engineer & entrepreneur with 10+ years of experience, ex-Huawei engineer, grad of Nanjing University of Posts and Telecommunications (CS).
+<br/>
 
-🔧 Tech Stack
+<p align="center">
+  <a href="https://github.com/9star-academy"><img src="https://img.shields.io/badge/Org-9star--academy-21262d?style=flat-square&logo=github&logoColor=58a6ff" alt="9star-academy" /></a>
+  &nbsp;
+  <a href="https://github.com/reedtang666"><img src="https://img.shields.io/badge/GitHub-@reedtang666-21262d?style=flat-square&logo=github&logoColor=3fb950" alt="reedtang666" /></a>
+</p>
 
-- Back-end: Go (core), Python (favorite! AI-focused), PHP/Java (proven experience)
+<br/>
 
-- Front-end: Flutter (mastery), JS/Vue/React
+<div align="center">
+  <a href="https://github.com/9star-academy/ShellReady">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=9star-academy&repo=ShellReady&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="ShellReady" />
+  </a>
+  <a href="https://github.com/9star-academy/servctl">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=9star-academy&repo=servctl&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="servctl" />
+  </a>
+</div>
 
-- AI: Die-hard GitHub Copilot fan 🤖
+<div align="center">
+  <a href="https://github.com/reedtang666/flutter-easy-starter">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=reedtang666&repo=flutter-easy-starter&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="flutter-easy-starter" />
+  </a>
+  <a href="https://github.com/reedtang666/Daily-Inspiration">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=reedtang666&repo=Daily-Inspiration&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Daily-Inspiration" />
+  </a>
+</div>
 
-🌱 Learning & Reads
+<div align="center">
+  <a href="https://github.com/reedtang666/daily-unsplash-4k-wallpapers">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=reedtang666&repo=daily-unsplash-4k-wallpapers&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="daily-unsplash-4k-wallpapers" />
+  </a>
+  <a href="https://github.com/reedtang666/TimeFlies">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=reedtang666&repo=TimeFlies&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="TimeFlies" />
+  </a>
+</div>
 
-- Tech: Linux, Python AI, Rust/Solidity
+<br/>
 
-- Others: Philosophy, Elon Musk’s "first principles" (die-hard fan! 🚀)
-
-- Books: *Systems Performance 2nd Ed.*, Musk’s biography
-
-💻 Core Values
-
-Open-source/Linux advocate 🐧, dedicated to building scalable solutions.
-
-🎨 Beyond Coding
-
-Hiking 🏕️, nature photography 📸, local food exploration 🍴.
-
-Let’s connect & build amazing things together! 🚀
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reedtang666&layout=pie&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reedtang666&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=reedtang666&show_icons=true&locale=cn&theme=github_dark&hide_border=true&hide_title=true&bg_color=00000000&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb" alt="GitHub Stats" />
+</div>
